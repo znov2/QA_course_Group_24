@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-2 string
-=======
-1 string
->>>>>>> Bug_Reports
